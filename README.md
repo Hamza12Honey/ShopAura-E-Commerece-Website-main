@@ -45,15 +45,15 @@ Mobile-First Approach: The website is designed to be fully responsive and mobile
 
 # Home page in dark mode
 
-![screencapture-localhost-5173-2023-11-25-10_21_08](https://github.com/Kuzma02/Clothing-Ecommerce-Shop-In-React-JSON-Server/assets/138793624/92c47c7e-ac1f-4309-b4fe-2a1fc7a78ec4)
+![screencapture]([https://github.com/Kuzma02/Clothing-Ecommerce-Shop-In-React-JSON-Server/assets/138793624/92c47c7e-ac1f-4309-b4fe-2a1fc7a78ec4](https://github.com/Hamza12Honey/ShopAura-E-Commerece-Website-main/blob/main/public/dark-page.jpg))
 
 # Home page in light mode
 
-![screencapture-localhost-5173-2023-11-25-20_35_59](https://github.com/Kuzma02/Clothing-Ecommerce-Shop-In-React-JSON-Server/assets/138793624/a2b3430e-632f-4c44-87b9-f09f44e31476)
+![screencapture-localhost-5173-2023-11-25-20_35_59](public/white-page.jpg)
 
 # Shop page
 
-![screencapture-localhost-5173-shop-2023-11-25-10_24_06 (1)](https://github.com/Kuzma02/Clothing-Ecommerce-Shop-In-React-JSON-Server/assets/138793624/3b0cb981-541a-4dcd-afb8-7d42c5f6949f)
+![screencapture-localhost-5173-shop-2023-11-25-10_24_06 (1)]([https://github.com/Kuzma02/Clothing-Ecommerce-Shop-In-React-JSON-Server/assets/138793624/3b0cb981-541a-4dcd-afb8-7d42c5f6949f](https://github.com/Hamza12Honey/ShopAura-E-Commerece-Website-main/blob/main/public/shop-page.jpg))
 
 # Single product page
 
